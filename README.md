@@ -1,14 +1,15 @@
 # Monthly_Expenses_Analysis_Dashboard
-In this innovative project, we've engineered a Monthly Expenses Analysis Dashboard utilizing the robust capabilities of Power BI. Dive into our financial data with ease, gaining valuable insights and empowering smarter financial decisions. Welcome to a new era of intuitive expense analysis
 
-About The Project : 
+In this groundbreaking project, we have developed a Monthly Expenses Analysis Dashboard harnessing the advanced features of Power BI. Delve into our financial data effortlessly, extracting valuable insights and enabling wiser financial choices. Step into an era of intuitive expense analysis that revolutionizes the way we understand our finances.
 
-In this Monthly Expenses Analysis Dashboard, we meticulously analyzed our financial data spanning from October 2022 to April 2023. By collecting detailed information from our bank statements, we exported, transformed, and meticulously analyzed the data before crafting this insightful dashboard. Discover the highest expenses by category and gain a comprehensive overview of our monthly expenditures. This analysis not only sheds light on individual monthly expenses but also provides a comprehensive view of our financial journey over the seven-month period.
+About The Project:
 
-Tools I Used : 
-1) Excel
-2) SQL
-3) Power BI
+Within this Monthly Expenses Analysis Dashboard, we conducted a meticulous examination of our financial data spanning from October 2022 to April 2023. We meticulously gathered detailed information from our bank statements, exporting, transforming, and comprehensively analyzing the data before creating this enlightening dashboard. Explore the highest expenses categorized by type and obtain a thorough overview of our monthly expenditures. This analysis not only illuminates individual monthly expenses but also offers a comprehensive perspective on our financial journey over the seven-month period.
+
+Tools Utilized:
+▪️ Excel
+▪️ SQL
+▪️ Power BI
 
 
 
