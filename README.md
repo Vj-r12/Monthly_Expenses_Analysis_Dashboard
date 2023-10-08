@@ -8,6 +8,7 @@ In this Monthly Expenses Analysis Dashboard, we meticulously analyzed our financ
 
 
 
-https://github.com/Vj-r12/Monthly_Expenses_Analysis_Dashboard/assets/123143472/9218a576-552f-44e4-bbe4-4c5ad0670908
+![img_2424](https://github.com/Vj-r12/Monthly_Expenses_Analysis_Dashboard/assets/123143472/dbc203e9-34ad-4fda-a99a-46f02dd02c54)
+
 
 
